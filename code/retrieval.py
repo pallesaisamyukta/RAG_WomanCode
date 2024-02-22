@@ -159,7 +159,7 @@ model_path = 'D:/Duke/Sem2/LLMs/RAG/WomanCode/data/processed/sentence_transforme
 mongo_uri = 'mongodb://localhost:27017/'
 db_name = 'LLM_RAG_WomenHealth'
 collection_name = 'womanEmbeddings'
-openai.api_key = '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'
+openai.api_key = OPEN_AI_KEY
 
 # Instantiate Preprocessor
 preprocessor = Preprocessor(json_path, model_path, mongo_uri, db_name, collection_name)
