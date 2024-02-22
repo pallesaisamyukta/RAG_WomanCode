@@ -12,4 +12,7 @@ from reputable sources.
 
 Data Pipeline is in the Data Pipeline.png
 
+Evaluation: Performed using Chat GPT prompting: 
+https://chat.openai.com/share/dae980af-a3c8-4c1e-b33e-52b0c6669fa3
+
 Thank you!
