@@ -15,4 +15,6 @@ Data Pipeline is in the Data Pipeline.png
 Evaluation: Performed using Chat GPT prompting: 
 https://chat.openai.com/share/dae980af-a3c8-4c1e-b33e-52b0c6669fa3
 
+Demo Recording: https://duke.zoom.us/rec/share/kTFqQPIBqNmRd8zcA3xjRGoXUraljzABOK0_W1vCfO8oxDYwiDn7O2fXDddIG39r.MJGrhWgXEoXyJh0v?startTime=1708612549000
+
 Thank you!
